@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\30279\source\repos\图论\图论\main.cpp(25,9): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  图论.vcxproj -> C:\Users\30279\source\repos\图论\Debug\图论.exe
